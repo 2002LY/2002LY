@@ -16,13 +16,13 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
- <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
+ <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">作業</a></td>
  <td><a href="https://github.com/2002LY/NetworkProgramming">網路程式設計</a></td>
  <td>尹 O 麗</td>
  </tr>
 
  <tr>
- <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
+ <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">作業</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
  <td><a href="https://github.com/2002LY/Image-processing">影像處理</a></td>
  <td>吳 O 穎</td>
